@@ -1,0 +1,7 @@
+lenovo
+dell
+HP
+Asus
+acer
+MSI
+list
