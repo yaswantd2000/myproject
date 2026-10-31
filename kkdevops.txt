@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 for emi = 25000 credit card
+=======
+for emi = 25000 credit card 
+>>>>>>> f1
