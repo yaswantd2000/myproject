@@ -1,1 +1,1 @@
-for emi = 25000 loan 
+for emi = 25000 credit card 
