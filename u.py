@@ -1,2 +1,1 @@
-python type
-safgr
+python type = 13
